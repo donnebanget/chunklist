@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1581141603~acl=/hls-p/ingest_204_*/*~hmac=d914e47f9ad1681692efd8f5617b2a573dc9543a778373db2b296b1b134f4e68/hls-p/ingest_204_480p/index.m3u8
