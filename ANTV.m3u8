@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
-https://etslive-2-vidio-com.akamaized.net/exp=1581134281~acl=/hls-p/ingest_782_*/*~hmac=ab1fea7eb1cb45702b83712423ad8930276bc1ed77a1ab4c95053160179e530c/hls-p/ingest_782_480p/index.m3u8
+http://id2.indostreamingtv.com/live/antv/index.m3u8
