@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
-acl=/hls-p/ingest_875_*/*~hmac=68ff6fdfcd66c7063b342ded57a6bf1d722c2090e73bfc2044ae6bc94d422414/hls-p/ingest_875_720p/index.m3u8
+https://edgejt6.useetv.com/joss/15/net/chunklist_w115386082_b1344100_sleng.m3u8?enc=wdr7gIwAcUDT8NUrN1QfaQ&exp=1581149197
