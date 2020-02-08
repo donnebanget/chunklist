@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
-https://etslive-2-vidio-com.akamaized.net/exp=1581283028~acl=/hls-p/ingest_6441_*/*~hmac=549353b5abda71732db642ad94d181e3a6e5c21aaf380ce86cef9e3dbc535795/hls-p/ingest_6441_720p/index.m3u8
+https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
