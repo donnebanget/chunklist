@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
+https://livetvhooq.akamaized.net/2d3daea33e7849f4bcd48bb6396cbf2b/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581000545~exp=9007200835741536~acl=/2d3daea33e7849f4bcd48bb6396cbf2b/*/profile_2/chunklist.m3u8*~hmac=79b83cc8d148d3a847486bf72750623a86b4d8f78bf7e009780f38640a229e78
