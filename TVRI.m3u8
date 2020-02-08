@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
-https://etslive-2-vidio-com.akamaized.net/exp=1581136409~acl=/hls-p/ingest_6441_*/*~hmac=d402398b2b406249f78e6f7b4b1980697f729e4067f20bf3df9dccd5cb240c00/hls-p/ingest_6441_480p/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
