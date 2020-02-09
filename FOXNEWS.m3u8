@@ -1,4 +1,4 @@
 #EXTM3U 
-#EXT-X-VERSION:3
+#EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
-https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_1000000=7.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-mp4a_98800_eng=5.m3u8
