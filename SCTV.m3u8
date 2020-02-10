@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
-https://etslive-2-vidio-com.akamaized.net/exp=1581284675~acl=/hls-p/ingest_204_*/*~hmac=e6032ff5079c9b0f7af042dc412f637796c1027859a5698d943b334ce78dcdee/hls-p/ingest_204_720p/index.m3u8
+http://rr2.dens.tv/s/s103/01.m3u8?token=ireg.m3u8 
