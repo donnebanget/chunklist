@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
-http://id2.indostreamingtv.com/live/antv/index.m3u8
+http://3.0.93.95:25461/LOCAL/ID/10
