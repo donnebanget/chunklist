@@ -1,9 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2288000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1096000
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=906000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=846000
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=420000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b396000.m3u8
-
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=496000
+https://livetvhooq.akamaized.net/e23061b584d746ba811292c8e1bc783d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1583281719~exp=9007200838022710~acl=/e23061b584d746ba811292c8e1bc783d/*/profile_0/chunklist.m3u8*~hmac=70bcae6142f91f9b88860e9dc4e2ffc1fdeaea8b3d5108908d876d3adf2eaf57
