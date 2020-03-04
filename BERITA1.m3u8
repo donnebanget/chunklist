@@ -1,4 +1,9 @@
-#EXTM3U 
+#EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2288000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=906000
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=420000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b396000.m3u8
+
