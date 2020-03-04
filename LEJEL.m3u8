@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
+https://livetvhooq.akamaized.net/e65856f8b215401fb45a5f4c49a50d9a/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581829489~exp=9007200836570480~acl=/e65856f8b215401fb45a5f4c49a50d9a/*/profile_2/chunklist.m3u8*~hmac=11173c05a3a1585623cd12487f08ddffe277007726eced650134376db0c2744e
