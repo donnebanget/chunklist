@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
