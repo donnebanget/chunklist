@@ -1,4 +1,3 @@
 #EXTM3U 
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
-https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1580991494~exp=9007200835732485~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_0/chunklist.m3u8*~hmac=5a136829a6ec3ca0c3fdc705fe591c0218df57c333405e89f355823253b5bc5e
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000https://video.detik.com/trans7/smil:trans7.smil/chunklist_w495377612_b384000_sleng.m3u8
