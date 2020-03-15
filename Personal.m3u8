@@ -3,7 +3,7 @@
 https://lh3.googleusercontent.com/6vLhZZi3_Sv0ATdwqTke-D3NXAk1CT6AzQPBLwtYPlYRRn14uq0XZQNrHZ29ODCS1sT4EVpc2hMQtw1S4w=m37
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/corona.png" group-title="Bear Rom", CORONA VIRUS LIVE UPDATE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1584267887/ei/D65tXo-IM_yb3LUP9PmYiAo/ip/125.160.65.89/id/qgylp3Td1Bw.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-2uuxa3vh-cqws.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/4200/mh/2O/mm/44/mn/sn-2uuxa3vh-cqws/ms/lva/mv/m/mvi/5/pl/22/dover/11/keepalive/yes/fexp/23842630/mt/1584246198/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRQIhAMKNuGAnAFCKcFHXtITqQy2eMbzlbfbb4FMc-WkRt0EVAiBofQPZOOaxfVcaYXlb7hZizwI07AHGFPS10LMLEs8Mug%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRAIgBUpezpYAlcDSu-iEuEM-nB1nYSbIScKeesWBVDUDIGkCIGiQh4OtBg3VpIOwrlxDrCHxljuibYVwqZhP3Qn51sE-/playlist/index.m3u8
+https://raw.githubusercontent.com/b4byhuey/chunklist/master/covid.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Bear Rom", ANTV
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/ANTV.m3u8
