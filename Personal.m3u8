@@ -338,101 +338,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", UFC FIGHT PASS
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w750507084_b664000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Fight Sport
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", EUROSPORT 1
-http://163.172.179.78:8081/tv/eurosport-1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", EUROSPORT 2
-http://163.172.179.78:8081/tv/eurosport-2/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", REAL MADRID TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", ASTRO SUPER SPORT1
-http://202.83.123.74:25461/wibowo285/12345678/4156?token=QhBYV0dYRg4TW1cCAAEBU1dUBAteCQZTW1FVVFUGUVdfVlRXUVJRVQAaSBAQEEJXVQhvWgIbCVEIAQYdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoHAwFWBVhOG0JZUhYKRgYCC10BQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1VTCRAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpRA1pVEk8=
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", ASTRO SUPER SPORT2
-http://103.28.148.205:25461/wibowo285/12345678/4155?token=QhBYV0dYRg4TD1dQUwcHAwRRAFBRDFcBDldUAlgDBVIOBFQGB1FTDQEaSBAQEEJXVQhvWgIbCVEIAQUdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoHAwFWAldOG0JZUhYKRgUEAFwCQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1VcBRAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpSB1FTEk8=
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", ASTRO SUPER SPORT3
-http://202.83.123.74:25461/wibowo285/12345678/4154?token=QhBYV0dYRg4TAAAKU1cBAAdWAFZVCFBQC1BSUlgHU1YJUVQCBAIADVQaSBAQEEJXVQhvWgIbCVEIAQQdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoHAwFWAllOG0JZUhYKRgYCCVUBQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1VRBxAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpRA1RWEk8=
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", ASTRO SUPER SPORT4
-http://202.83.123.74:25461/wibowo285/12345678/4153?token=QhBYV0dYRg4TCFBRBwAAVFZQBgUCDAdcAAcAUAVXBwMNAlIEBFJUBAIaSBAQEEJXVQhvWgIbCVEIAQMdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoHAwFWA1BOG0JZUhYKRgYCC1YAQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1VVBRAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpRAVdWEk8=
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BEIN SPORT 1
-http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BEIN SPORT 2
-http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BEIN SPORT 3
-http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BEIN SPORT 4
-http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BEIN SPORT 5
-http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BEIN SPORT 6
-http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BEIN SPORT 7
-http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BEIN SPORT 8
-http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BEIN SPORT 9
-http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", ARENA SPORT 1
-http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", ARENA SPORT 2
-http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", ARENA SPORT 3
-http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", ARENA SPORT 4
-http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Bear Rom", JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", AXN
-http://210.210.155.66/h/h141/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BLUE ANT ENTERTAINMENT
-http://210.210.155.35/dr9445/h/h16/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", BLUE ANT EXTREME
-http://210.210.155.35/dr9445/h/h15/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", CELESTIAL MOVIES
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", CINEMA WORLD
-http://210.210.155.35/uq2663/h/h04/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", HITS
-http://210.210.155.35/uq2663/h/h37/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", K+
-http://210.210.155.35/uq2663/h/h08/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", KIX
-http://210.210.155.35/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Bear Rom", Fox Premium
-http://proxyts.ec.cx:8082/hls1/foxpremium1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRn-z41Fm_FGxZmQooiidQVoKOWUEJHCyQUkqDVpcQPB2bmOqCu" group-title="Bear Rom", K Drama
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/KDRAMA.m3u8
