@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://lagu73.wapska.com/music/thumb/4/Nella%20Kharisma%20-%20Nella%20Loversku.mp3.jpg" group-title="Bear Rom", Welcome
-https://lh3.googleusercontent.com/6vLhZZi3_Sv0ATdwqTke-D3NXAk1CT6AzQPBLwtYPlYRRn14uq0XZQNrHZ29ODCS1sT4EVpc2hMQtw1S4w=m37
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/corona.png" group-title="Bear Rom", CORONA VIRUS LIVE UPDATE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1584305400/ei/mEBuXoapHtLe4-EPr5-d-AU/ip/125.160.65.89/id/qgylp3Td1Bw.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-2uuxa3vh-cqws.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/3040/mh/2O/mm/44/mn/sn-2uuxa3vh-cqws/ms/lva/mv/m/mvi/5/pl/22/dover/11/keepalive/yes/fexp/23842630/mt/1584283700/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRQIgd1qT3QzE6KgD71yYiDzsB4xpFDgxG1UpniNwz6NTQtACIQDlyOcgnCdtaFlsRbeRQpzf7tLMgf0rt_OXR1xeanJ0bw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRQIgO7JKZ_aeQxRCG0GW2ARmGvCYl0I0ouPWLDrO3H5hbMkCIQDzmtFojMiPrH-dgxUQIshdrozDltztZp2R2TPPZtN8Pw%3D%3D/playlist/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Bear Rom", ANTV
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/ANTV.m3u8
 
@@ -21,7 +15,7 @@ https://raw.githubusercontent.com/b4byhuey/chunklist/master/IDKU.m3u8
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/INDOSIAR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4oAMGm.png" group-title="Bear Rom",The Indonesia Channel
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8 
+https://raw.githubusercontent.com/b4byhuey/chunklist/master/IndonesiaChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="Bear Rom", JAK TV
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/JAKTV.m3u8
@@ -219,7 +213,7 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(041307e6-5f66-42cc-9215-37bab1980265)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", DAAI TV
-https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581052608~exp=9007200835793599~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=36b5c752c78257a393c569cbdc050ddb7b5a4a0ad25f64855eaaeb13e162f992
+https://raw.githubusercontent.com/b4byhuey/chunklist/master/DAAI.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", Rodja TV
 rtmp://119.82.232.89/live/rodja
@@ -246,10 +240,10 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/OUTDOOR.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", Sports Illustrated
-https://livetvhooq.akamaized.net/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581829925~exp=9007200836570916~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_2/chunklist.m3u8*~hmac=d8760cb11de3c5c5df4fe499d1170f00aa833f6b0849fc6ebbc8c10a464a780d
+https://raw.githubusercontent.com/b4byhuey/chunklist/master/SPORTILUST.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", HOOQ Food - My Recipes
-https://livetvhooq.akamaized.net/135463756ae94a429ae807ed69919055/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581830017~exp=9007200836571008~acl=/135463756ae94a429ae807ed69919055/*/profile_2/chunklist.m3u8*~hmac=1112f315ee1a438e6e722b26b6d4313eb47746a709cbb394efdca0de87962770
+https://raw.githubusercontent.com/b4byhuey/chunklist/master/MYRECIPES.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", HOOQ Food - Cooking Light
 https://livetvhooq.akamaized.net/afbbb0112e144da19be3d13c5d9b2f96/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581830062~exp=9007200836571053~acl=/afbbb0112e144da19be3d13c5d9b2f96/*/profile_2/chunklist.m3u8*~hmac=2a4acaca18270af09a296f413292cdb53e130ed47defcbe531ffec30cf6e1a7e
