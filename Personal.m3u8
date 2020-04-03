@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/b4byhuey/chunklist/master/ANTV.m3u8
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(ece368c4-0d61-4ba8-8797-e436a2f5c00d)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/XSyUfVCy9gDV05X6jpEu.png" group-title="Bear Rom", GTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/GTV.m3u8
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8?64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Bear Rom",ID KU
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/IDKU.m3u8
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/b4byhuey/chunklist/master/JTV.m3u8
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/inilahonline.com/wp-content/uploads/2018/03/INEWSTV.png" group-title="Bear Rom", iNews TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/INEWS.m3u8
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8?64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="Bear Rom", Kompas TV
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
@@ -36,7 +36,7 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d3cde5d1-d8a8-422f
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/JAWAPOS.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/H9zFZsYZpSruTIIi4Y5w.png" group-title="Bear Rom", MNC TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/MNCTV.m3u8
+https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8?64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png" group-title="Bear Rom", MyTV
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/MYTV.m3u8
@@ -51,7 +51,7 @@ http://wowza60.indostreamserver.com:1935/pktv/live/chunklist_w1915614088.m3u8
 http://122.248.43.138:1935/ch10/myStream/chunklist_w67811800.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/yjEPQBiSgLuUUCuNfAXe.png" group-title="Bear Rom", RCTI
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/RCTI.m3u8
+https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8?64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="Bear Rom", RTV
 https://raw.githubusercontent.com/b4byhuey/chunklist/master/RTV.m3u8
