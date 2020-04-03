@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/b4byhuey/chunklist/master/MYTV.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6a/Logo-PK-tv.png" group-title="Bear Rom", PKTV
-rtmp://wowza60.indostreamserver.com:1935/pktv/live
+http://wowza60.indostreamserver.com:1935/pktv/live/chunklist_w1915614088.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", BALIKPAPAN TV
 rtsp://122.248.43.138:1935/ch10/myStream
