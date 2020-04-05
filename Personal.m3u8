@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/donnebanget/chunklist/master/JTV.m3u8
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/inilahonline.com/wp-content/uploads/2018/03/INEWSTV.png" group-title="Bear Rom", iNews TV
-https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8?64000=2-avc1_2000000=6.m3u8
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8?64000=2-avc1_2000000=1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="Bear Rom", Kompas TV
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
