@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/donnebanget/chunklist/master/ANTV.m3u8
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(ece368c4-0d61-4ba8-8797-e436a2f5c00d)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/XSyUfVCy9gDV05X6jpEu.png" group-title="Bear Rom", GTV
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8?64000=2-avc1_2000000=6.m3u8
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8?64000=2-avc1_2000000=4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Bear Rom",ID KU
 https://raw.githubusercontent.com/donnebanget/chunklist/master/IDKU.m3u8
