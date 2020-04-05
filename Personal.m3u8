@@ -51,7 +51,7 @@ http://wowza60.indostreamserver.com:1935/pktv/live/chunklist_w1915614088.m3u8
 http://122.248.43.138:1935/ch10/myStream/chunklist_w67811800.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/yjEPQBiSgLuUUCuNfAXe.png" group-title="Bear Rom", RCTI
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=5.m3u8
+https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8?64000=2-avc1_1000000=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="Bear Rom", RTV
 https://raw.githubusercontent.com/donnebanget/chunklist/master/RTV.m3u8
