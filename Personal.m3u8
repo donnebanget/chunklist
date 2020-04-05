@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Bear Rom", ANTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/ANTV.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/ANTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="Bear Rom", BALI TV
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(ece368c4-0d61-4ba8-8797-e436a2f5c00d)/manifest.mpd
@@ -9,19 +9,19 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(ece368c4-0d61-4ba8
 https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8?64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Bear Rom",ID KU
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/IDKU.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/IDKU.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Bear Rom", INDOSIAR
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/INDOSIAR.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/INDOSIAR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4oAMGm.png" group-title="Bear Rom",The Indonesia Channel
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/IndonesiaChannel.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/IndonesiaChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="Bear Rom", JAK TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/JAKTV.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/JAKTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="Bear Rom", JTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/JTV.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/JTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="Bear Rom", METRO TV
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
@@ -33,13 +33,13 @@ https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8?64000=2-
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/298px-Logo_Jawapos_TV.png" group-title="Bear Rom", JAWAPOS TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/JAWAPOS.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/JAWAPOS.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-static.metube.id//live/logo/H9zFZsYZpSruTIIi4Y5w.png" group-title="Bear Rom", MNC TV
 https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8?64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png" group-title="Bear Rom", MyTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/MYTV.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/MYTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Bear Rom", NET.
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
@@ -54,16 +54,16 @@ http://122.248.43.138:1935/ch10/myStream/chunklist_w67811800.m3u8
 https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8?64000=2-avc1_2000000=6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="Bear Rom", RTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/RTV.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/RTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Bear Rom", SCTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/SCTV.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/SCTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Bear Rom", TRANS7
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/TRANS7.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/TRANS7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Bear Rom", TRANSTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/TRANSTV.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/TRANSTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Bear Rom", TVONE
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/manifest.mpd
@@ -75,64 +75,64 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1292932118_b384
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w6707534_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="Bear Rom", TVRI
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/TVRI.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/TVRI.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="Bear Rom", BeritaSatu
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/BERITA1.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/BERITA1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwnOMan_-66_xxjTrtKg1_2mhhx8RRJxPBRaCnkhmSL-d6TTkX" tvg-country="ID" group-title="Bear Rom", BeritaSatu World
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/BERITA1W.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/BERITA1W.m3u8
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/dc/85/02/dc850292-136d-f282-93f2-9677b9f35337/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/246x0w.png" tvg-country="ID" group-title="Bear Rom", BeritaSatu English
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/BERITA1E.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/BERITA1E.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/413521614152560640/z7rWR7wE_400x400.jpeg" group-title="Bear Rom", TVKU
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/TVKU.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/TVKU.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/320px-CTV_Banten.png" group-title="Bear Rom", TV Cahaya Banten
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/CTV.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/CTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l799RKPlMRrP6F1gtnDKu-QiYPURx9SddA22Dw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bear Rom", TATV SOLO
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/TATV.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/TATV.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l787JpZMmdzJFW_hQId5ZHZZ7_DKVV6gLJbggw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bear Rom", JEMBER 1 TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/JEMBER1.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/JEMBER1.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/722811236103036928/u_S2PdCr_400x400.jpg" group-title="Bear Rom", BMS TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/BMS.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/BMS.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/780236541020901376/1NJBdqWw_400x400.jpg" group-title="Bear Rom", AREMA TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/AREMA.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/AREMA.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mugosmedia.com/v2/images/mugos-logo.png?t=o&v=800" group-title="Bear Rom", Mugos
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png" group-title="Bear Rom", USEE PHOTO
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/USEEPHOTO.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/USEEPHOTO.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png" group-title="Bear Rom", USEE PRIME
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/USEEPRIME.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/USEEPRIME.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Bear Rom", ID KU
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/IDKU.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/IDKU.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title="Bear Rom", RUANG TRAMPIL
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/RTRAMPIL.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/RTRAMPIL.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", Awesome
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/AWESOME.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/AWESOME.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", Fail Army
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/FAILARMY.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/FAILARMY.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", The Pet Collective
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/THEPET.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/THEPET.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", LEJEL Home Shopping
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/LEJEL.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/LEJEL.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", Entertainment Weekly
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/EWEEKLY.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/EWEEKLY.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="Bear Rom", EGG Network
 http://210.210.155.66/h/h22/01.m3u8
@@ -162,16 +162,16 @@ http://210.210.155.66/h/h143/01.m3u8
 https://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Bear Rom", FTV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/FTV.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/FTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Bear Rom", FTV PARIS
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/FTVPARIS.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/FTVPARIS.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Bear Rom", FTV MIDNITE
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/FTVMIDNITE.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/FTVMIDNITE.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="Bear Rom", FTV TOP MODEL
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/FTVTOPMODEL.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/FTVTOPMODEL.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/31/f3/1231f374e965e9a97d73015bf2636a7b.jpg" group-title="Bear Rom", JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
@@ -213,7 +213,7 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(041307e6-5f66-42cc-9215-37bab1980265)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", DAAI TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/DAAI.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/DAAI.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", Rodja TV
 rtmp://119.82.232.89/live/rodja
@@ -237,13 +237,13 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", Outdoor Channel
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/OUTDOOR.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/OUTDOOR.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", Sports Illustrated
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/SPORTILUST.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/SPORTILUST.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", HOOQ Food - My Recipes
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/MYRECIPES.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/MYRECIPES.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", HOOQ Food - Cooking Light
 https://livetvhooq.akamaized.net/afbbb0112e144da19be3d13c5d9b2f96/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581830062~exp=9007200836571053~acl=/afbbb0112e144da19be3d13c5d9b2f96/*/profile_2/chunklist.m3u8*~hmac=2a4acaca18270af09a296f413292cdb53e130ed47defcbe531ffec30cf6e1a7e
@@ -261,13 +261,13 @@ https://livetvhooq.akamaized.net/1648324ea85b498897752a6385bb5e08/ap-southeast-1
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", B MUSIC SESSION
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/BMUSIC.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/BMUSIC.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", B MUSIC CONCERT
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/BCONCERT.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/BCONCERT.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", Clubbing TV
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/CLUBBING.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/CLUBBING.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
@@ -282,7 +282,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/chunklist_b235200
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", TRACE URBAN
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/TRACEURBAN.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/TRACEURBAN.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bear Rom", MTV LIVE
 https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
@@ -339,9 +339,7 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRn-z41Fm_FGxZmQooiidQVoKOWUEJHCyQUkqDVpcQPB2bmOqCu" group-title="Bear Rom", K Drama
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/KDRAMA.m3u8
+https://raw.githubusercontent.com/donnebanget/chunklist/master/KDRAMA.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="Bear Rom", Zee Bioskop
-https://raw.githubusercontent.com/b4byhuey/chunklist/master/ZEE.m3u8
-
-
+https://raw.githubusercontent.com/donnebanget/chunklist/master/ZEE.m3u8
